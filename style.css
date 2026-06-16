@@ -1,11 +1,11 @@
 body {
-  Color: green;
+  color: green;
   background-color: NavajoWhite; 
   max-width: 600px;
   margin: auto;
 }
   h1 {
-	Color: FireBrick;
+	color: FireBrick;
 	text-align: center;}
 
 p1 {
