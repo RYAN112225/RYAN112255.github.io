@@ -18,9 +18,18 @@ p {
   color: MidnightBlue;
   font-family: courier;
   font-size: 100%; }
+
 ul {
 	font-family: courier;
 	font-size: 130%; }
+
+img {
+	display: block;
+	margin: auto; }
+
+
+
+
 
 
 
