@@ -9,6 +9,11 @@ body {
 	text-align: center;
 	  font-family: Verdana;
   font-size: 300%; }
+  h2  {
+	  color: Midnight Blue;
+	  text-align: center;
+	  font-family: Verdana;
+	  font-size: 150; }
 p {
   color: MidnightBlue;
   font-family: courier;
